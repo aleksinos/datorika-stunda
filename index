@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body style="background-color:#ffcc66">
+  <h1>Profils</h1>
+  <form style="display: grid; gap: 12px; width: 300px;">
+
+    <input type="text" placeholder="Lietotājvārds">
+
+    <input type="password" placeholder="Parole">
+
+    <input type="number" placeholder="Augums">
+
+    <h2>Web tehnoloģijas ko māku</h2>
+    <label>
+        <input type="checkbox">
+        html
+    </label>
+    <label>
+        <input type="checkbox">
+        css
+    </label>
+    <label>
+        <input type="checkbox">
+        java
+    </label>
+    <label>
+        <input type="checkbox">
+        python
+    </label>
+    <label>
+        <input type="checkbox">
+        levits
+    </label>
+    <h2>Labākais raidijums passaulē</h2>
+    <label>
+        <input type="radio" name="group1">Ugunsgrēks 10
+    </label>
+    <label>
+        <input type="radio" name="group1">Tas 2
+    </label>
+    <label>
+        <input type="radio" name="group1">Braking Bad
+    </label>
+    <label>
+        <input type="radio" name="group1">Levita dzīve
+    </label>
+  <img src="https://cdn.santa.lv/media/2019/05/2/large/44e12aeb9dd2.jpg%22%3E
